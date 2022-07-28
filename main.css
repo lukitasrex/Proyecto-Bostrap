@@ -59,3 +59,36 @@
     width: 100%!important;
     background-color:rgba(42, 51, 113, 0.756);
 }
+
+
+
+
+
+/* ----------- PAGINA GALERIA ------------- */
+
+.navegador2{
+    display: flex;
+    justify-content: space-between!important;
+}
+
+.carrusel-contenedor{
+    display: flex!important;
+    justify-content: center!important;
+
+}
+
+.carrusel{
+    width: 600px;
+    height: 700px;
+    display: flex!important;
+    align-items: center!important;
+}
+.imagenes-carusel{
+    width: 90%;
+    display: flex!important;
+    justify-content: center!important;
+}
+
+.boton-carrusel{
+    color: black!important;
+}
